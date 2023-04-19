@@ -7,6 +7,6 @@
 }
 #btn:hover{
     background-color: yellow;
-    color: yellow;
+    color: rgb(118, 118, 118);
     border-radius: 30px;
 }
